@@ -5,3 +5,6 @@ Le parole sono sinonimo di uno stesso significato, quale parola è un opposto di
 Sono stati fatti dei lavori per coloro hanno sviluppato wordnet, per fare delle cose simili, ampliate come interessi a più lingue e anche a diverse informazioni, 
 per esempio informazioni etimologiche che memorizzano quella parola da quali precedenti parole viene, con quali altre lingue è correlata, ecc…
 http://www.lexvo.com/
+
+
+E' inserita una tesina con i vari passi eseguiti
